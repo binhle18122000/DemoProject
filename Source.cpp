@@ -1,6 +1,5 @@
 #include"MathLib.h"
 #include<stdio.h>
-#include<Windows.h>
 
 int main()
 {
