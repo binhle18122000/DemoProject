@@ -14,3 +14,8 @@ int MySubstract(int a, int b)
 {
 	return a - b;
 }
+
+int MyDivide(int a, int b)
+{
+	return a/b;
+}
